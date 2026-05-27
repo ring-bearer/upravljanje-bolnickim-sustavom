@@ -1,4 +1,4 @@
-# Projekt iz NBP
+# Upravljanje bolničkim sustavom
 
 Web aplikaciji moze se pristupiti sa lokalnog hosta.
 Potrebno je imati PHP i instaliran driver za njegov rad s Postgresom.\
