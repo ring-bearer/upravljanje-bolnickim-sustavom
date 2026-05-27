@@ -49,6 +49,8 @@ Sustav koristi relacijsku bazu podataka PostgreSQL s implementiranim SQL funkcij
 - MVC arhitektura
 - Git / GitHub
 
+---
+
 Web aplikaciji moze se pristupiti sa lokalnog hosta.
 Potrebno je imati PHP i instaliran driver za njegov rad s Postgresom.\
 Korisne naredbe (na Linuxu preko terminala):
